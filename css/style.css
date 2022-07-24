@@ -2,9 +2,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
+/* common css */
+
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+/* slider image height  */
 
 .carousel-item img {
     max-height: 768px;
